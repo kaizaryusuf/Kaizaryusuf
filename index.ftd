@@ -108,7 +108,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://linkedin.com/in/kaizar-yusuf-340988294/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
